@@ -1,0 +1,28 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Keep the data folder, but do not upload its contents
+data/*
+!data/.gitkeep
+
+# Keep the model folder, but do not upload generated models
+saved_models/*
+!saved_models/.gitkeep
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
