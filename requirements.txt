@@ -2,3 +2,5 @@
 pyspark==3.5.7
 pandas
 pyarrow
+streamlit
+plotly

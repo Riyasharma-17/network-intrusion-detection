@@ -1,0 +1,17 @@
+{
+    "accuracy": 0.6984369043080442,
+    "macro_f1": 0.3446906360189632,
+    "weighted_f1": 0.6487635531602329,
+    "rows_evaluated": 18361,
+    "attack_classes": [
+        "Exploits",
+        "Fuzzers",
+        "Reconnaissance",
+        "DoS",
+        "Generic",
+        "Backdoor",
+        "Analysis",
+        "Shellcode",
+        "Worms"
+    ]
+}

@@ -1,0 +1,65 @@
+[
+    {
+        "attack_type": "Exploits",
+        "support": 7482,
+        "precision": 0.8388278388278388,
+        "recall": 0.5509222133119487,
+        "f1_score": 0.6650532429816071
+    },
+    {
+        "attack_type": "Fuzzers",
+        "support": 4415,
+        "precision": 0.7479435957696827,
+        "recall": 0.5766704416761042,
+        "f1_score": 0.6512341731679243
+    },
+    {
+        "attack_type": "Generic",
+        "support": 1643,
+        "precision": 0.8860986547085202,
+        "recall": 0.6013390139987828,
+        "f1_score": 0.7164612037708484
+    },
+    {
+        "attack_type": "DoS",
+        "support": 1598,
+        "precision": 0.33472803347280333,
+        "recall": 0.15018773466833543,
+        "f1_score": 0.20734341252699784
+    },
+    {
+        "attack_type": "Backdoor",
+        "support": 296,
+        "precision": 0.114166168559474,
+        "recall": 0.6452702702702703,
+        "f1_score": 0.19400711020822753
+    },
+    {
+        "attack_type": "Reconnaissance",
+        "support": 2127,
+        "precision": 0.670373312152502,
+        "recall": 0.7936060178655383,
+        "f1_score": 0.7268030139935415
+    },
+    {
+        "attack_type": "Shellcode",
+        "support": 370,
+        "precision": 0.14344770566349732,
+        "recall": 0.9378378378378378,
+        "f1_score": 0.24883470778056652
+    },
+    {
+        "attack_type": "Analysis",
+        "support": 386,
+        "precision": 0.1099476439790576,
+        "recall": 0.21761658031088082,
+        "f1_score": 0.14608695652173914
+    },
+    {
+        "attack_type": "Worms",
+        "support": 44,
+        "precision": 0.04062126642771804,
+        "recall": 0.7727272727272727,
+        "f1_score": 0.0771850170261067
+    }
+]

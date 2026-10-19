@@ -1,0 +1,17 @@
+{
+  "selected_model": "GBTClassificationModel",
+  "selection_metric": "validation PR-AUC",
+  "validation_pr_auc": 0.9737946927942779,
+  "test_pr_auc": 0.9351741666952241,
+  "tp": 17827,
+  "tn": 21129,
+  "fp": 10481,
+  "fn": 534,
+  "accuracy": 0.7795721518480719,
+  "precision_attack": 0.6297513070510103,
+  "recall_attack": 0.9709166167420075,
+  "specificity": 0.66842771274913,
+  "f1_attack": 0.7639760869099403,
+  "false_positive_rate": 0.33157228725086996,
+  "false_negative_rate": 0.029083383257992482
+}

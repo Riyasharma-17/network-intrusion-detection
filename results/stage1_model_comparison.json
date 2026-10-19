@@ -1,0 +1,50 @@
+[
+  {
+    "model": "LogisticRegression",
+    "training_seconds": 8.37,
+    "validation_pr_auc": 0.8659844304668941,
+    "tp": 8583,
+    "tn": 7856,
+    "fp": 1905,
+    "fn": 820,
+    "accuracy": 0.8578063034857023,
+    "precision_attack": 0.8183638443935927,
+    "recall_attack": 0.9127937892162076,
+    "specificity": 0.8048355701260117,
+    "f1_attack": 0.8630033683575487,
+    "false_positive_rate": 0.19516442987398833,
+    "false_negative_rate": 0.08720621078379241
+  },
+  {
+    "model": "RandomForestClassifier",
+    "training_seconds": 8.2,
+    "validation_pr_auc": 0.9670441263098467,
+    "tp": 9392,
+    "tn": 7805,
+    "fp": 1956,
+    "fn": 11,
+    "accuracy": 0.8973596326445419,
+    "precision_attack": 0.8276348255199154,
+    "recall_attack": 0.9988301605870467,
+    "specificity": 0.7996106956254482,
+    "f1_attack": 0.9052093874993976,
+    "false_positive_rate": 0.2003893043745518,
+    "false_negative_rate": 0.0011698394129533128
+  },
+  {
+    "model": "GBTClassifier",
+    "training_seconds": 21.94,
+    "validation_pr_auc": 0.9737946927942779,
+    "tp": 9128,
+    "tn": 8279,
+    "fp": 1482,
+    "fn": 275,
+    "accuracy": 0.9083176789814235,
+    "precision_attack": 0.860320452403393,
+    "recall_attack": 0.9707540146761672,
+    "specificity": 0.8481712939248028,
+    "f1_attack": 0.9122070654074852,
+    "false_positive_rate": 0.15182870607519722,
+    "false_negative_rate": 0.02924598532383282
+  }
+]

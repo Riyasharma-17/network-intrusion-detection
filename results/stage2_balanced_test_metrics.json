@@ -1,0 +1,20 @@
+{
+    "accuracy": 0.5577038287674964,
+    "macro_f1": 0.4036676486641732,
+    "weighted_f1": 0.6053482072201767,
+    "rows_evaluated": 18361,
+    "attack_classes": [
+        "Exploits",
+        "Fuzzers",
+        "Generic",
+        "DoS",
+        "Backdoor",
+        "Reconnaissance",
+        "Shellcode",
+        "Analysis",
+        "Worms"
+    ],
+    "training_method": "Approximate class-balanced sampling",
+    "target_per_class": 1000,
+    "balanced_training_rows": 9056
+}

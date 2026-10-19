@@ -1,0 +1,10 @@
+Actual / Predicted,Exploits,Fuzzers,Reconnaissance,DoS,Generic,Backdoor,Analysis,Shellcode,Worms
+Exploits,6346,1098,8,0,25,0,5,0,0
+Fuzzers,138,4180,97,0,0,0,0,0,0
+Reconnaissance,505,351,1263,0,7,1,0,0,0
+DoS,887,637,12,40,21,1,0,0,0
+Generic,449,209,4,0,979,2,0,0,0
+Backdoor,27,254,0,0,0,15,0,0,0
+Analysis,57,329,0,0,0,0,0,0,0
+Shellcode,42,317,10,0,0,0,0,1,0
+Worms,35,9,0,0,0,0,0,0,0
